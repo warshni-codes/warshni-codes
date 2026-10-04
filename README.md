@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Warshni ✋
 
-<!--
-**warshni-codes/warshni-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓BE Computer Science Engineering Student
+🐍Learning Python and building my programming fundamentals
+🤖Exploring Artificial Intelligence and Machine Learning
+🔐Intrested in Cybersecurity
 
-Here are some ideas to get you started:
+##🚀Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Python
+-Git & Github
+-Problem solving
+-AI & Machine Learning
+-Cybersecurity
+
+##🎯My Goal
+
+To build strong technical skills through continuous learning , practical projects , and real-world problem solving.
+
+##📌What I'm Working On
+
+I'm documenting my learning journey and building projects as I grow in Computer science.
